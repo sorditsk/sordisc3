@@ -2,11 +2,14 @@ style.css
 
 /* navigation menu styles */
 .topnav {
-    background-color: gainsboro;
+    background-color: #dcdcdc;
     overflow: hidden;
 }
 .topnav a {
     float: left;
     display: run-in;
+    padding: 15px;
     font-size: 20px;
+    color: #ffa07a;
+    
 }
