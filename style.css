@@ -1,1 +1,12 @@
-<link type="text/css" rel="stylesheet" href="stylesheets/style.css" />
+style.css
+
+/* navigation menu styles */
+.topnav {
+    background-color: gainsboro;
+    overflow: hidden;
+}
+.topnav a {
+    float: left;
+    display: run-in;
+    font-size: 20px;
+}
