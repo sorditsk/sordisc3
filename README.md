@@ -1,8 +1,8 @@
 # sordisc3
 <html>
-    <Title>
+    <title>
         welcome to Oobiland
-    </Title>
+    </title>
     
     <body>
         <h1>this is my website yall
